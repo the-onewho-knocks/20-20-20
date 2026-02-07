@@ -16,7 +16,6 @@ The extension intelligently pauses during fullscreen activities (movies, games, 
 - 🧠 **Explicit resume notification** after break
 - ⏸ **Automatically pauses during fullscreen**
 - 🪶 **Lightweight & battery-friendly**
-- 🔒 **No tracking, no ads, no network access**
 
 ---
 
