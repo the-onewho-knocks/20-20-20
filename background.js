@@ -47,7 +47,7 @@ chrome.alarms.onAlarm.addListener((alarm) => {
       type: "basic",
       iconUrl: "icon.png",
       title: "20-20-20 Rule",
-      message: "Look at something 20 feet away for 20 seconds 👀",
+      message: "Look at something 20 feet away for 20 seconds",
       priority: 2
     });
 
