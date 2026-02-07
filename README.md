@@ -41,11 +41,11 @@ If the browser enters fullscreen mode at any point, the extension pauses automat
 
   <img src="https://github.com/user-attachments/assets/36060982-f006-42ca-93de-d5a78fd947eb" width="700" alt="Work timer popup" />
   <br>
-
+  <br>
   <img src="https://github.com/user-attachments/assets/c4faeab9-0e7c-4402-8caf-27d703bf7c9f" width="500" alt="Break countdown" />
   <br>
-
-  <img src="https://github.com/user-attachments/assets/e2cbbd64-14e2-4950-a2d5-5533a7bd1d0d" width="420" alt="Notification alert" />
+  <br>
+  <img width="447" height="159" alt="image" src="https://github.com/user-attachments/assets/26c47eab-436a-4824-ae5b-3be2d473b232" />
   <br>
   
 ---
