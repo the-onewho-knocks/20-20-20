@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <audio id="sound" src="gentel.wav"></audio>
+
+  <script>
+    chrome.runtime.onMessage.addListener((msg) => {
+      if (msg.playSound) {
+        const audio = document.getElementById("sound");
+        audio.volume = 0.3;
+        audio.currentTime = 0;
+        audio.play();
+      }
+    });
+  </script>
+</body>
+</html>

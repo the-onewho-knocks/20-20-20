@@ -1,0 +1,28 @@
+body {
+  width: 220px;
+  height: 140px;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+.container {
+  text-align: center;
+  padding: 15px;
+}
+
+h1 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+#timer {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.hint {
+  font-size: 12px;
+  opacity: 0.8;
+}
