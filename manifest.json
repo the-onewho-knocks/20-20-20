@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "20-20-20 Eye Care",
+  "version": "1.2",
+  "description": "Smart eye-care reminder that pauses during fullscreen and plays a gentle sound.",
+  "permissions": [
+    "notifications",
+    "alarms",
+    "storage",
+    "offscreen"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
