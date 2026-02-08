@@ -97,7 +97,7 @@ edge://extensions
 
 The extension starts running immediately after loading.
 
-## 👤 Author
+##  Author
 **Hardik Borse** | [LinkedIn](https://www.linkedin.com/in/hardik-borse-aa7729324/) | [Email](mailto:borsehardik@gmail.com)
 
 ### License
