@@ -1,4 +1,4 @@
-# 👀 20-20-20 Eye Care – Chrome & Microsoft Edge Extension
+# 20-20-20 Eye Care – Chrome & Microsoft Edge Extension
 
 A smart, lightweight Chrome and Microsoft Edge extension that helps reduce eye strain by enforcing the **20-20-20 rule**:
 
@@ -8,18 +8,18 @@ The extension intelligently pauses during fullscreen activities (movies, games, 
 
 ---
 
-## ✨ Features
+##  Features
 
-- ⏱ **20-minute work timer**
-- 👀 **Guided 20-second eye break**
-- 🔔 **Gentle sound alerts** (non-intrusive)
-- 🧠 **Explicit resume notification** after break
-- ⏸ **Automatically pauses during fullscreen**
-- 🪶 **Lightweight & battery-friendly**
+-  **20-minute work timer**
+-  **Guided 20-second eye break**
+-  **Gentle sound alerts** (non-intrusive)
+-  **Explicit resume notification** after break
+-  **Automatically pauses during fullscreen**
+-  **Lightweight & battery-friendly**
 
 ---
 
-## 🧩 How It Works
+##  How It Works
 
 The extension operates as a **two-phase state machine**:
 
@@ -36,7 +36,7 @@ If the browser enters fullscreen mode at any point, the extension pauses automat
 
 ---
 
-## 🖼 Screenshots
+##  Screenshots
 
   <img src="https://github.com/user-attachments/assets/36060982-f006-42ca-93de-d5a78fd947eb" width="700" alt="Work timer popup" />
   <br>
@@ -49,7 +49,7 @@ If the browser enters fullscreen mode at any point, the extension pauses automat
   
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 20-20-20-extension/
@@ -63,7 +63,7 @@ If the browser enters fullscreen mode at any point, the extension pauses automat
 ├── gentle.mp3           # Soft notification sound
 └── icon.png             # Extension icon (128×128)
 ```
-## 🚀 Getting Started
+##  Getting Started
 ### Prerequisites
 - Google Chrome or Microsoft Edge
 - Git
